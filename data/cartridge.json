@@ -1,5 +1,6 @@
-{
+[
 	{
+		"id" : "17_horn",
 		"name" : "17 Hornet",
 		"description" : "",
 		"dimensions" : {
@@ -9,6 +10,27 @@
 		"primer_size" : "Small Rifle"
 	},
 	{
+		"id" : "17_rem_fireball",
+		"name" : "17 Remington Fireball",
+		"description" : "",
+		"dimensions" :{
+			"bullet_diameter" : 0.1725,
+			"neck_diameter" : 0.2040
+		},
+		"primer_size" : "Small Rifle"
+	},
+	{
+		"id" : "17_rem",
+		"name" : "17 Remington",
+		"description" : "",
+		"dimensions" :{
+			"bullet_diameter" : 0.1725,
+			"neck_diameter" : 0.199
+		},
+		"primer_size" : "Small Rifle"
+	},
+	{
+		"id" : "223_rem",
 		"name" : "223 Remington",
 		"description" : "Round commonly used by the US military. This is a sample description",
 		"dimensions" :{
@@ -17,4 +39,4 @@
 		},
 		"primer_size" : "Small Rifle"
 	}
-}
+]
